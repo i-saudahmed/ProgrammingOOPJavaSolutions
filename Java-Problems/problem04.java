@@ -1,3 +1,4 @@
+//?  What is the value of variable 'a' in the Java program provided below?
 
 public class problem04 {
 
